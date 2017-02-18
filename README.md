@@ -1,0 +1,2 @@
+# vegancraft
+Vegan Minecraft mod
